@@ -37,4 +37,6 @@ dependencies {
 
     implementation 'com.github.javiersantos:AppUpdater:2.7'
 
+    implementation 'com.github.Piashsarker:AndroidAppUpdateLibrary:1.0.3'
+
 }
